@@ -14,3 +14,5 @@ flemay:less-autoprefixer
 underscore
 aldeed:collection2
 aldeed:simple-schema
+accounts-base
+accounts-password
